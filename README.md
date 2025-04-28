@@ -1,4 +1,4 @@
-# Echoes Game DSL
+# Echoes of the Seventh Era: Game DSL
 
 Echoes Game DSL is a domain-specific language (DSL) written in Ruby for creating and managing game data for the 16-bit retro-style game, Echoes of the Seventh Era (RPG). It allows developers to define characters, locations, enemies, and dialogues in a structured and intuitive way.
 
